@@ -164,7 +164,7 @@ a.nav-link{
     head shot
 ──────────────────*/
 
-.circular--square { border-radius: 50%; height: 50%; width: 50%;}
+.circular--square { border-radius: 50%; }
 
 /*──────────────────
       about

@@ -160,6 +160,13 @@ a.nav-link{
 	text-shadow: 0 0 50px var(--main-decor-color);
 }
 
+/*──────────────────
+    head shot
+──────────────────*/
+
+.head-shot img {
+	border-radius: 50%;
+  }
 
 /*──────────────────
       about

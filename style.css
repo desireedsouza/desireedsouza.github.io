@@ -177,7 +177,7 @@ a.nav-link{
 }
 #about p{
     margin: 5px;
-	font-size:1rem;
+	font-size:1.2rem;
 	font-family: var(--main-font-family);
 	text-align:center;
 }
